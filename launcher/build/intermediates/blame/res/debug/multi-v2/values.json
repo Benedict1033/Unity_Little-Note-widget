@@ -1,0 +1,134 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "5,2,6,4,3",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "234,55,284,183,115",
+                        "endColumns": "49,59,84,50,67",
+                        "endOffsets": "279,110,364,229,178"
+                    },
+                    "to": {
+                        "startLines": "8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "348,398,458,543,594",
+                        "endColumns": "49,59,84,50,67",
+                        "endOffsets": "393,453,538,589,657"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\src\\main\\res\\values\\attrs.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endLines": "5",
+                        "endColumns": "24",
+                        "endOffsets": "265"
+                    },
+                    "to": {
+                        "startLines": "35",
+                        "startColumns": "4",
+                        "startOffsets": "1993",
+                        "endLines": "39",
+                        "endColumns": "24",
+                        "endOffsets": "2239"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "209",
+                        "endColumns": "43",
+                        "endOffsets": "248"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "258",
+                        "endColumns": "43",
+                        "endOffsets": "297"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\src\\main\\res\\values\\ids.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "46",
+                        "endOffsets": "97"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "302",
+                        "endColumns": "45",
+                        "endOffsets": "343"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "7,3,9,14,19",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "206,56,306,546,779",
+                        "endLines": "7,5,12,17,22",
+                        "endColumns": "98,12,12,12,12",
+                        "endOffsets": "300,200,540,773,1021"
+                    },
+                    "to": {
+                        "startLines": "13,20,23,27,31",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "662,1126,1275,1514,1746",
+                        "endLines": "13,22,26,30,34",
+                        "endColumns": "91,12,12,12,12",
+                        "endOffsets": "749,1270,1509,1741,1988"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "8,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "285,17",
+                        "endLines": "8,6",
+                        "endColumns": "105,12",
+                        "endOffsets": "386,279"
+                    },
+                    "to": {
+                        "startLines": "14,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "754,859",
+                        "endLines": "14,19",
+                        "endColumns": "104,12",
+                        "endOffsets": "854,1121"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "2,1,3,4",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "66,16,117,168",
+                        "endColumns": "50,49,50,50",
+                        "endOffsets": "112,61,163,214"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,106,156,207",
+                        "endColumns": "50,49,50,50",
+                        "endOffsets": "101,151,202,253"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+com/DefaultCompany/LittleNote20211210/Nefinal.java
+ com.DefaultCompany.LittleNote20211210.Nefinal
+com/DefaultCompany/LittleNote20211210/BuildConfig.java
+ com.DefaultCompany.LittleNote20211210.BuildConfig
+com/DefaultCompany/LittleNote20211210/databinding/NefinalBinding.java
+ com.DefaultCompany.LittleNote20211210.databinding.NefinalBinding

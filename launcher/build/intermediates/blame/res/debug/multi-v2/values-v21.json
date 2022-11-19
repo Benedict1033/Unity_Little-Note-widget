@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\src\\main\\res\\values-v21\\styles.xml",
+                    "from": {
+                        "startLines": "3,5,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "56,160,400",
+                        "endLines": "3,8,13",
+                        "endColumns": "102,12,12",
+                        "endOffsets": "154,394,645"
+                    },
+                    "to": {
+                        "startLines": "2,3,7",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,151,390",
+                        "endLines": "2,6,10",
+                        "endColumns": "95,12,12",
+                        "endOffsets": "146,385,635"
+                    }
+                }
+            ]
+        }
+    ]
+}

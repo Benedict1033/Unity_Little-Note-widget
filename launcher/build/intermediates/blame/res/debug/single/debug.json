@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\src\\main\\res\\mipmap-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\build\\intermediates\\res\\merged\\debug\\xml_nefinal_info.xml.flat",
+        "source": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\src\\main\\res\\xml\\nefinal_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\src\\main\\res\\mipmap-anydpi-v26\\app_icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_icon.png.flat",
+        "source": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\src\\main\\res\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\build\\intermediates\\res\\merged\\debug\\layout_nefinal.xml.flat",
+        "source": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\src\\main\\res\\layout\\nefinal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\src\\main\\res\\mipmap-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\src\\main\\res\\mipmap-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_example_appwidget_preview.png.flat",
+        "source": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\src\\main\\res\\drawable-nodpi\\example_appwidget_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\src\\main\\res\\mipmap-anydpi-v26\\app_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable-v21_app_widget_background.xml.flat",
+        "source": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\src\\main\\res\\drawable-v21\\app_widget_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable-v21_app_widget_inner_view_background.xml.flat",
+        "source": "C:\\Users\\Ben\\Desktop\\New folder\\launcher\\src\\main\\res\\drawable-v21\\app_widget_inner_view_background.xml"
+    }
+]

@@ -1,0 +1,182 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.DefaultCompany.LittleNote20211210"
+4    android:installLocation="preferExternal"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="19"
+9-->C:\Users\Ben\Desktop\New folder\launcher\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="29" />
+10-->C:\Users\Ben\Desktop\New folder\launcher\src\main\AndroidManifest.xml
+11
+12    <supports-screens
+12-->C:\Users\Ben\Desktop\New folder\launcher\src\main\AndroidManifest.xml:7:5-12:40
+13        android:anyDensity="true"
+13-->C:\Users\Ben\Desktop\New folder\launcher\src\main\AndroidManifest.xml:8:9-34
+14        android:largeScreens="true"
+14-->C:\Users\Ben\Desktop\New folder\launcher\src\main\AndroidManifest.xml:9:9-36
+15        android:normalScreens="true"
+15-->C:\Users\Ben\Desktop\New folder\launcher\src\main\AndroidManifest.xml:10:9-37
+16        android:smallScreens="true"
+16-->C:\Users\Ben\Desktop\New folder\launcher\src\main\AndroidManifest.xml:11:9-36
+17        android:xlargeScreens="true" />
+17-->C:\Users\Ben\Desktop\New folder\launcher\src\main\AndroidManifest.xml:12:9-37
+18
+19    <uses-feature android:glEsVersion="0x00030000" />
+19-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-54
+19-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:19-51
+20    <uses-feature
+20-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-16:36
+21        android:name="android.hardware.vulkan.version"
+21-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:9-55
+22        android:required="false" />
+22-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-33
+23
+24    <uses-permission android:name="android.permission.CAMERA" />
+24-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:5-65
+24-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:22-62
+25
+26    <uses-feature
+26-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:5-22:36
+27        android:name="android.hardware.camera"
+27-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:9-47
+28        android:required="false" />
+28-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:9-33
+29    <uses-feature
+29-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:5-25:36
+30        android:name="android.hardware.camera.autofocus"
+30-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:9-57
+31        android:required="false" />
+31-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:9-33
+32    <uses-feature
+32-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:5-28:36
+33        android:name="android.hardware.camera.front"
+33-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:9-53
+34        android:required="false" />
+34-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:9-33
+35    <uses-feature
+35-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:5-31:36
+36        android:name="android.hardware.touchscreen"
+36-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:9-52
+37        android:required="false" />
+37-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:9-33
+38    <uses-feature
+38-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:5-34:36
+39        android:name="android.hardware.touchscreen.multitouch"
+39-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:9-63
+40        android:required="false" />
+40-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:34:9-33
+41    <uses-feature
+41-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:5-37:36
+42        android:name="android.hardware.touchscreen.multitouch.distinct"
+42-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:9-72
+43        android:required="false" />
+43-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:37:9-33
+44
+45    <application
+45-->C:\Users\Ben\Desktop\New folder\launcher\src\main\AndroidManifest.xml:14:5-29:19
+46        android:debuggable="true"
+47        android:extractNativeLibs="true"
+47-->C:\Users\Ben\Desktop\New folder\launcher\src\main\AndroidManifest.xml:15:9-41
+48        android:icon="@mipmap/app_icon"
+48-->C:\Users\Ben\Desktop\New folder\launcher\src\main\AndroidManifest.xml:16:9-40
+49        android:label="@string/app_name"
+49-->C:\Users\Ben\Desktop\New folder\launcher\src\main\AndroidManifest.xml:17:9-41
+50        android:testOnly="true" >
+51        <receiver
+51-->C:\Users\Ben\Desktop\New folder\launcher\src\main\AndroidManifest.xml:18:9-28:20
+52            android:name="com.DefaultCompany.LittleNote20211210.Nefinal"
+52-->C:\Users\Ben\Desktop\New folder\launcher\src\main\AndroidManifest.xml:19:13-36
+53            android:exported="true" >
+53-->C:\Users\Ben\Desktop\New folder\launcher\src\main\AndroidManifest.xml:20:13-36
+54            <intent-filter>
+54-->C:\Users\Ben\Desktop\New folder\launcher\src\main\AndroidManifest.xml:21:13-23:29
+55                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+55-->C:\Users\Ben\Desktop\New folder\launcher\src\main\AndroidManifest.xml:22:17-84
+55-->C:\Users\Ben\Desktop\New folder\launcher\src\main\AndroidManifest.xml:22:25-81
+56            </intent-filter>
+57
+58            <meta-data
+58-->C:\Users\Ben\Desktop\New folder\launcher\src\main\AndroidManifest.xml:25:13-27:56
+59                android:name="android.appwidget.provider"
+59-->C:\Users\Ben\Desktop\New folder\launcher\src\main\AndroidManifest.xml:26:17-58
+60                android:resource="@xml/nefinal_info" />
+60-->C:\Users\Ben\Desktop\New folder\launcher\src\main\AndroidManifest.xml:27:17-53
+61        </receiver>
+62
+63        <activity
+63-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:40:9-60:20
+64            android:name="com.unity3d.player.UnityPlayerActivity"
+64-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:41:13-66
+65            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+65-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:42:13-194
+66            android:hardwareAccelerated="false"
+66-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:43:13-48
+67            android:launchMode="singleTask"
+67-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:44:13-44
+68            android:resizeableActivity="false"
+68-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:45:13-47
+69            android:screenOrientation="portrait"
+69-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:46:13-49
+70            android:theme="@style/UnityThemeSelector" >
+70-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:47:13-54
+71            <intent-filter>
+71-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:48:13-52:29
+72                <action android:name="android.intent.action.MAIN" />
+72-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:49:17-69
+72-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:49:25-66
+73
+74                <category android:name="android.intent.category.LAUNCHER" />
+74-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:51:17-77
+74-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:51:27-74
+75            </intent-filter>
+76
+77            <meta-data
+77-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:54:13-56:40
+78                android:name="unityplayer.UnityActivity"
+78-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:55:17-57
+79                android:value="true" />
+79-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:56:17-37
+80            <meta-data
+80-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:57:13-59:40
+81                android:name="android.notch_support"
+81-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:58:17-53
+82                android:value="true" />
+82-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:59:17-37
+83        </activity>
+84
+85        <meta-data
+85-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:62:9-64:33
+86            android:name="unity.splash-mode"
+86-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:63:13-45
+87            android:value="0" />
+87-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:64:13-30
+88        <meta-data
+88-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:65:9-67:36
+89            android:name="unity.splash-enable"
+89-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:66:13-47
+90            android:value="True" />
+90-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:67:13-33
+91        <meta-data
+91-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:68:9-70:37
+92            android:name="unity.allow-resizable-window"
+92-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:69:13-56
+93            android:value="False" />
+93-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:70:13-34
+94        <meta-data
+94-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:71:9-73:50
+95            android:name="notch.config"
+95-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:72:13-40
+96            android:value="portrait|landscape" />
+96-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:73:13-47
+97        <meta-data
+97-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:74:9-76:68
+98            android:name="unity.build-id"
+98-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:75:13-42
+99            android:value="706d79a0-41cb-4088-ba1c-b4158f326159" />
+99-->[:unityLibrary] C:\Users\Ben\Desktop\New folder\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:76:13-65
+100    </application>
+101
+102</manifest>
